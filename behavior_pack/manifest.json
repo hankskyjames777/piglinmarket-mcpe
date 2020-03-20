@@ -1,0 +1,30 @@
+{
+  "format_version": 1.16,
+  "header": {
+    "description": "Buy any items in the Piglin's sight! \nOnly for 1 diamond! \nAddon by @hankskyjames777",
+    "name": "Piglin Shop Sellers",
+    "uuid": "f2c4351f-29df-412c-a27d-504ba1596c27",
+    "version": [
+      0,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Buy any items in the Piglin's sight! \nOnly fotr 1 diamond!\n \nAddon by @hankskyjames777",
+      "type": "resources",
+      "uuid": "5e727dac-6b47-4a74-a2ad-16ee99863146",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
